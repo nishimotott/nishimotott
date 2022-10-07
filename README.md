@@ -1,4 +1,4 @@
-![hello-world](../image/cover.png)
+![cover](./cover.png)
 ### Hi there 👋
 
 **nishimotott/nishimotott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
